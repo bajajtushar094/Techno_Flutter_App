@@ -3,7 +3,7 @@
 
 ## What is this?
 Technothlon Informative App is an app developed to provide information to participants of [**Technohtlon Prelims**](https://technothlon.techniche.org.in)
-It includes a detail description of said module of [**Techniche**](https://techniche.org/) convering all the aspects from LEDs, Cityreps to Mains.
+It includes a detail description of the said module of [**Techniche**](https://techniche.org/) convering all the aspects from LEDs, Cityreps to Technothlon Mains.
 
 
 ## Why did we build this?
